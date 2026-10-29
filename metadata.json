@@ -1,0 +1,6 @@
+{
+  "name": "SpecForge",
+  "description": "SpecForge reads messy university course specs and blueprints, producing verified course specifications, CO-PO-PSO mappings, and flagged defects.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
